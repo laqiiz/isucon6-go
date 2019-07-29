@@ -1,2 +1,2 @@
 # isucon6-go
-diff
+diff from https://github.com/isucon/isucon6-qualify/tree/master/webapp/go
